@@ -11,5 +11,9 @@ body{
 
 h2{
   font-size: 18px;
-  color: white; 
+  color: white;
+}
+
+.home {
+  background-image: image(./resources/images/the-flatiron-building.png);
 }
