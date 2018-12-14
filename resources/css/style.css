@@ -4,16 +4,16 @@ h1 {
   color: white;
 }
 
-body{
+body {
   font-family: Helvetica;
   text-align: center;
 }
 
-h2{
+h2 {
   font-size: 18px;
   color: white;
 }
 
 .home {
-  background-image: image(./resources/images/the-flatiron-building.png);
+background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
 }
