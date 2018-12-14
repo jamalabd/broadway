@@ -1,0 +1,15 @@
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h2{
+  font-size: 18px;
+  color: white; 
+}
